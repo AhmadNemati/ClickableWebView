@@ -1,2 +1,2 @@
 # ClickableWebView
-Clickable WebView for Detect Click on an Image
+Simple WebView for Detect click on an image
