@@ -29,9 +29,8 @@ compile 'com.ahmadnemati.clickablewebview:clickablewebview:1.1.1'    //jcenter()
 ```
 #Developed By
 
-* Mike Penz 
- * [mikepenz.com](http://mikepenz.com) - <mikepenz@gmail.com>
- * [paypal.me/mikepenz](http://paypal.me/mikepenz)
+* Ahmad Nemati 
+ * [mikepenz.com](http://mikepenz.com) - <nematiprog@gmail.com>
 
 
 #License
