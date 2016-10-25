@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity implements OnWebViewClicked 
     }
 
     @Override
-    public void clicked(String url) {
+    public void onClick(String url) {
         Toast.makeText(MainActivity.this, "Url : "+url, Toast.LENGTH_SHORT).show();
     }
 }

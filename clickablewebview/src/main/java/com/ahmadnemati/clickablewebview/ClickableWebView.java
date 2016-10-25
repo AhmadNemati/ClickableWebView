@@ -64,7 +64,7 @@ public class ClickableWebView extends WebView implements View.OnClickListener, V
         WebView.HitTestResult hr = getHitTestResult();
         try {
             if (listener != null && hr.getType() == IMAGE_TYPE) {
-                listener.clicked(hr.getExtra());
+                listener.onClick(hr.getExtra());
             }
         } catch (Exception e) {
             e.getStackTrace();
