@@ -5,5 +5,5 @@ package com.ahmadnemati.clickablewebview.listener;
  */
 
 public interface OnWebViewClicked {
-    void clicked(String url);
+    void onClick(String url);
 }
