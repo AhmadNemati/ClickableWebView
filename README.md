@@ -16,7 +16,7 @@ compile 'com.ahmadnemati.clickablewebview:clickablewebview:1.1.1'
       android:layout_height="match_parent"
       android:id="@+id/clickable_webview"/>
 ```
-# Step 3 :Initialize WebView and setOnWebViewClickListener interface
+# Step 3 :Initialize WebView and setOnWebViewClickListener Method
 ```java
         ClickableWebView clickableWebView;
         clickableWebView= (ClickableWebView) findViewById(R.id.clickable_webview);
