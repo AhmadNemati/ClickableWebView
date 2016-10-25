@@ -7,7 +7,7 @@ Simple WebView for Detect click on an image
 # Step 1 :Add it as a dependency in your app's build.gradle file
 
 ```gradle
-compile 'com.ahmadnemati.clickablewebview:clickablewebview:1.1.1'
+compile 'com.ahmadnemati.clickablewebview:clickablewebview:1.1.1'    //jcenter()
 ```
 # Step 2 :Add it to your layout
 ```xml
