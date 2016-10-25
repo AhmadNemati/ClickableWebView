@@ -9,7 +9,7 @@ android {
         minSdkVersion 9
         targetSdkVersion 24
         versionCode 1
-        versionName "1.0"
+        versionName "1.1.2"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
@@ -26,7 +26,7 @@ publish {
     userOrg = 'ahmadnemati'
     groupId = 'com.ahmadnemati.clickablewebview'
     artifactId = 'clickablewebview'
-    publishVersion = '1.1.1'
+    publishVersion = '1.1.2'
     desc = 'Simple WebView for Detect click on an image'
     website = 'https://github.com/AhmadNemati/ClickableWebView/'
 }
