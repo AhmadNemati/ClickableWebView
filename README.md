@@ -27,7 +27,7 @@ compile 'com.ahmadnemati.clickablewebview:clickablewebview:1.1.1'    //jcenter()
             }
         });
 ```
-# License 
+#License 
 MIT License
 
 Copyright (c) 2016 Ahmad Nemati
