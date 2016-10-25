@@ -20,7 +20,7 @@ import java.util.Calendar;
 public class ClickableWebView extends WebView implements View.OnClickListener, View.OnTouchListener {
     private OnWebViewClicked listener;
     private static final int MAX_CLICK_DURATION = 200;
-    private static final int IMAGE_TYPE=5;
+    private static final int IMAGE_TYPE = 5;
     private long startClickTime;
 
     public ClickableWebView(Context context) {
@@ -82,7 +82,6 @@ public class ClickableWebView extends WebView implements View.OnClickListener, V
                 long clickDuration = Calendar.getInstance().getTimeInMillis() - startClickTime;
                 if (clickDuration < MAX_CLICK_DURATION) {
                     performClick();
-
                 }
             }
         }
