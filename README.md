@@ -30,14 +30,14 @@ compile 'com.ahmadnemati.clickablewebview:clickablewebview:1.1.1'    //jcenter()
 #Developed By
 
 * Ahmad Nemati 
- * [mikepenz.com](http://mikepenz.com) - <nematiprog@gmail.com>
+ * [ahmadnemati.com](http://ahmadnemati.com) - <nematiprog@gmail.com>
 
 
 #License
 
 
 
-  Copyright (c) 2016 Ahmad Nemati
+   Copyright (c) 2016 Ahmad Nemati
 
    Permission is hereby granted, free of charge, to any person obtaining a copy
    of this software and associated documentation files (the "Software"), to deal
