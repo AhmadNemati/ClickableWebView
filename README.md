@@ -2,4 +2,4 @@
 Simple WebView for Detect click on an image
 
 # Demo
-![alt tag](http://url/to/img.png)
+![alt tag](https://raw.githubusercontent.com/AhmadNemati/ClickableWebView/test/art/webview.gif)
