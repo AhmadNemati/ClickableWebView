@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity implements OnWebViewClicked 
         clickableWebView = (ClickableWebView) findViewById(R.id.clickable_webview);
         clickableWebView.setOnWebViewClickListener(this);
         clickableWebView.loadUrl("http://www.ushistory.org/Betsy/flagfact.html");
-        clickableWebView.loadUrl("http://www.ushistory.org/Betsy/flagfact.html");
+       
     }
 
     @Override
