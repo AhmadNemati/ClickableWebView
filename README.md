@@ -2,7 +2,7 @@
 ![minSdkVersion 9](https://img.shields.io/badge/minSdkVersion-9-red.svg?style=true)
 ![compileSdkVersion 24](https://img.shields.io/badge/compileSdkVersion-24-yellow.svg?style=true)
 # ClickableWebView
-Simple WebView for Detect click on an image
+Simple WebView to Detect click on an image
 
 # Demo
 ![alt tag](https://raw.githubusercontent.com/AhmadNemati/ClickableWebView/test/art/webview.gif)
