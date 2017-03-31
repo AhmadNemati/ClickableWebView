@@ -30,13 +30,13 @@ compile 'com.ahmadnemati.clickablewebview:clickablewebview:1.1.2'    //jcenter()
             }
         });
 ```
-#Developed By
+# Developed By
 
 * Ahmad Nemati 
  * [ahmadnemati.com](http://ahmadnemati.com) - <nematiprog@gmail.com>
 
 
-#License
+# License
 
     Copyright 2016 Ahmad Nemati
 
